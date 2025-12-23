@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sap-gui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "sap-gui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
