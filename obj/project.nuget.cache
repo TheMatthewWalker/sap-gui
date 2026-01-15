@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zH4sxZQCKpA=",
+  "dgSpecHash": "Fsn5B1OsV+w=",
   "success": true,
-  "projectFilePath": "C:\\Development\\sap-gui\\sap-gui.csproj",
+  "projectFilePath": "C:\\Development\\git-projects\\sap-gui\\sap-gui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\avalonia\\11.3.8\\avalonia.11.3.8.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\avalonia.buildservices\\11.3.1\\avalonia.buildservices.11.3.1.nupkg.sha512",
@@ -17,7 +17,6 @@
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\communitytoolkit.winui.ui.controls.datagrid\\7.1.2\\communitytoolkit.winui.ui.controls.datagrid.7.1.2.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.graphics.win2d\\1.3.1\\microsoft.graphics.win2d.1.3.1.nupkg.sha512",
-    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.22\\microsoft.net.illink.tasks.8.0.22.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.web.webview2\\1.0.3179.45\\microsoft.web.webview2.1.0.3179.45.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.6901\\microsoft.windows.sdk.buildtools.10.0.26100.6901.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windows.sdk.buildtools.msix\\1.7.20250829.1\\microsoft.windows.sdk.buildtools.msix.1.7.20250829.1.nupkg.sha512",
@@ -32,11 +31,10 @@
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windowsappsdk.widgets\\1.8.250904007\\microsoft.windowsappsdk.widgets.1.8.250904007.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windowsappsdk.winui\\1.8.251105000\\microsoft.windowsappsdk.winui.1.8.251105000.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
-    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.22\\microsoft.netcore.app.runtime.win-x86.8.0.22.nupkg.sha512",
-    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.22\\microsoft.netcore.app.crossgen2.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.23\\microsoft.netcore.app.runtime.win-x86.8.0.23.nupkg.sha512",
     "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.57\\microsoft.windows.sdk.net.ref.10.0.22621.57.nupkg.sha512",
-    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.22\\microsoft.aspnetcore.app.runtime.win-x86.8.0.22.nupkg.sha512",
-    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.22\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.22.nupkg.sha512"
+    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.23\\microsoft.aspnetcore.app.runtime.win-x86.8.0.23.nupkg.sha512",
+    "C:\\Users\\Matthew.walker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.23\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }

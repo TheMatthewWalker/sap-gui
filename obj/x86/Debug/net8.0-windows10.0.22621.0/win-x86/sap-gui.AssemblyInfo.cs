@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sap-gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac43bb99f05470fb0a56f0a2fae62c33e37795e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sap-gui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sap-gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

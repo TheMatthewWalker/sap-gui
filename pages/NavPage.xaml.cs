@@ -17,6 +17,7 @@ public sealed partial class NavPage : Page
 
     private void LoadTiles()
     {
+        TileItems.Add(new TileItem { Title = "Production", IconPath = "ms-appx:///Assets/putaway.png" });
         TileItems.Add(new TileItem { Title = "Inventory", IconPath = "ms-appx:///Assets/staging.png" });
         TileItems.Add(new TileItem { Title = "Transfer", IconPath = "ms-appx:///Assets/transfer.png" });
         TileItems.Add(new TileItem { Title = "Picksheet", IconPath = "ms-appx:///Assets/picklist.png" });

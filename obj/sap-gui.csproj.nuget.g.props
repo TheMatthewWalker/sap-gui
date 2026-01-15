@@ -26,7 +26,6 @@
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\1.8.25090401\buildTransitive\Microsoft.WindowsAppSDK.DWrite.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.dwrite\1.8.25090401\buildTransitive\Microsoft.WindowsAppSDK.DWrite.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk.ai\1.8.39\buildTransitive\Microsoft.WindowsAppSDK.AI.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk.ai\1.8.39\buildTransitive\Microsoft.WindowsAppSDK.AI.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\1.8.251106002\buildTransitive\Microsoft.WindowsAppSDK.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\1.8.251106002\buildTransitive\Microsoft.WindowsAppSDK.props')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.net.illink.tasks\8.0.22\build\Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.illink.tasks\8.0.22\build\Microsoft.NET.ILLink.Tasks.props')" />
     <Import Project="$(NuGetPackageRoot)avalonia\11.3.8\buildTransitive\Avalonia.props" Condition="Exists('$(NuGetPackageRoot)avalonia\11.3.8\buildTransitive\Avalonia.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
@@ -34,7 +33,6 @@
     <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45</PkgMicrosoft_Web_WebView2>
     <PkgMicrosoft_WindowsAppSDK_WinUI Condition=" '$(PkgMicrosoft_WindowsAppSDK_WinUI)' == '' ">C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.winui\1.8.251105000</PkgMicrosoft_WindowsAppSDK_WinUI>
     <PkgMicrosoft_WindowsAppSDK_Runtime Condition=" '$(PkgMicrosoft_WindowsAppSDK_Runtime)' == '' ">C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002</PkgMicrosoft_WindowsAppSDK_Runtime>
-    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Matthew.walker\.nuget\packages\microsoft.net.illink.tasks\8.0.22</PkgMicrosoft_NET_ILLink_Tasks>
     <PkgCommunityToolkit_WinUI_UI_Controls_DataGrid Condition=" '$(PkgCommunityToolkit_WinUI_UI_Controls_DataGrid)' == '' ">C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.1.2</PkgCommunityToolkit_WinUI_UI_Controls_DataGrid>
     <PkgAvalonia_BuildServices Condition=" '$(PkgAvalonia_BuildServices)' == '' ">C:\Users\Matthew.walker\.nuget\packages\avalonia.buildservices\11.3.1</PkgAvalonia_BuildServices>
     <PkgAvalonia Condition=" '$(PkgAvalonia)' == '' ">C:\Users\Matthew.walker\.nuget\packages\avalonia\11.3.8</PkgAvalonia>

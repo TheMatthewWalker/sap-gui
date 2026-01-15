@@ -1,1 +1,1 @@
-C:\Development\sap-gui\sap-gui.csproj;x86
+C:\Development\git-projects\sap-gui\sap-gui.csproj;x86

@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ENORW140</Machine>
+    <WindowsUser>matthew.walker</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>0.0</TargetOsVersion>
+    <TargetOsDescription>
+    </TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>c8b9992f-eec9-49f2-8716-845dd55e80da</PackageIdentityName>
+    <PackageIdentityPublisher>CN=matthew.walker</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppX</LayoutDir>
+    <RegisteredManifestChecksum>79AD0304E0C46FCDB9A33447E316793A76164965E61D9B842AF5266853AA7F22</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c8b9992f-eec9-49f2-8716-845dd55e80da_1.0.0.0_x86__3n4vfrkfdxsg4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c8b9992f-eec9-49f2-8716-845dd55e80da_3n4vfrkfdxsg4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c8b9992f-eec9-49f2-8716-845dd55e80da</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=matthew.walker</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-01-15T14:35:56.476</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.runtimeconfig.json">
+      <PackagePath>sap-gui.runtimeconfig.json</PackagePath>
+      <Modified>2026-01-15T14:35:43.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\apphost.exe">
+      <PackagePath>sap-gui.exe</PackagePath>
+      <Modified>2026-01-15T14:35:41.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\Microsoft.DiaSymReader.Native.x86.dll">
+      <PackagePath>Microsoft.DiaSymReader.Native.x86.dll</PackagePath>
+      <Modified>2024-11-27T04:21:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\System.IO.Compression.Native.dll">
+      <PackagePath>System.IO.Compression.Native.dll</PackagePath>
+      <Modified>2025-12-06T22:37:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clretwrc.dll">
+      <PackagePath>clretwrc.dll</PackagePath>
+      <Modified>2025-12-06T22:27:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clrgc.dll">
+      <PackagePath>clrgc.dll</PackagePath>
+      <Modified>2025-12-06T22:27:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clrjit.dll">
+      <PackagePath>clrjit.dll</PackagePath>
+      <Modified>2025-12-06T22:27:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\coreclr.dll">
+      <PackagePath>coreclr.dll</PackagePath>
+      <Modified>2025-12-06T22:26:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\createdump.exe">
+      <PackagePath>createdump.exe</PackagePath>
+      <Modified>2025-12-06T22:27:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\hostfxr.dll">
+      <PackagePath>hostfxr.dll</PackagePath>
+      <Modified>2025-12-06T22:37:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\hostpolicy.dll">
+      <PackagePath>hostpolicy.dll</PackagePath>
+      <Modified>2025-12-06T22:37:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordaccore.dll">
+      <PackagePath>mscordaccore.dll</PackagePath>
+      <Modified>2025-12-06T22:31:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordaccore_x86_x86_8.0.2325.60607.dll">
+      <PackagePath>mscordaccore_x86_x86_8.0.2325.60607.dll</PackagePath>
+      <Modified>2025-12-06T22:31:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordbi.dll">
+      <PackagePath>mscordbi.dll</PackagePath>
+      <Modified>2025-12-06T22:31:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscorrc.dll">
+      <PackagePath>mscorrc.dll</PackagePath>
+      <Modified>2025-12-06T22:27:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\msquic.dll">
+      <PackagePath>msquic.dll</PackagePath>
+      <Modified>2025-03-03T22:23:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.graphics.win2d\1.3.1\runtimes\win-x86\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2024-12-13T04:23:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45\runtimes\win-x86\native\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
+      <Modified>2025-03-30T09:04:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.foundation\1.8.251104000\runtimes\win-x86\native\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</PackagePath>
+      <Modified>2025-11-04T20:38:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.foundation\1.8.251104000\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2025-11-04T20:38:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+      <Modified>2025-03-30T09:04:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\SAPFunctionsOCX.Interop.dll">
+      <PackagePath>SAPFunctionsOCX.Interop.dll</PackagePath>
+      <Modified>2026-01-15T14:35:51.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2026-01-15T14:35:51.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll">
+      <PackagePath>CommunityToolkit.WinUI.UI.Controls.DataGrid.dll</PackagePath>
+      <Modified>2026-01-15T14:35:51.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2026-01-15T14:35:51.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\sap-gui.dll">
+      <PackagePath>sap-gui.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2026-01-15T14:35:52.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Primitives.dll">
+      <PackagePath>System.ComponentModel.Primitives.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.TypeConverter.dll">
+      <PackagePath>System.ComponentModel.TypeConverter.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
+      <Modified>2026-01-15T14:35:53.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2026-01-15T14:35:54.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2026-01-15T14:35:54.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2026-01-15T14:35:54.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.CoreLib.dll">
+      <PackagePath>System.Private.CoreLib.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Security.Cryptography.dll">
+      <PackagePath>System.Security.Cryptography.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2026-01-15T14:35:55.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2026-01-15T14:35:56.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.deps.json">
+      <PackagePath>sap-gui.deps.json</PackagePath>
+      <Modified>2026-01-15T14:35:56.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.animations\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Animations.pri">
+      <PackagePath>CommunityToolkit.WinUI.Animations.pri</PackagePath>
+      <Modified>2025-04-02T17:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.extensions\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Extensions.pri">
+      <PackagePath>CommunityToolkit.WinUI.Extensions.pri</PackagePath>
+      <Modified>2025-04-02T17:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.helpers\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Helpers.pri">
+      <PackagePath>CommunityToolkit.WinUI.Helpers.pri</PackagePath>
+      <Modified>2025-04-02T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.media\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Media.pri">
+      <PackagePath>CommunityToolkit.WinUI.Media.pri</PackagePath>
+      <Modified>2025-04-02T18:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.triggers\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Triggers.pri">
+      <PackagePath>CommunityToolkit.WinUI.Triggers.pri</PackagePath>
+      <Modified>2025-04-02T18:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.pri">
+      <PackagePath>CommunityToolkit.WinUI.UI.Controls.DataGrid.pri</PackagePath>
+      <Modified>2021-11-18T21:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\picklist.png">
+      <PackagePath>Assets\picklist.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\putaway.png">
+      <PackagePath>Assets\putaway.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\search.png">
+      <PackagePath>Assets\search.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\staging.png">
+      <PackagePath>Assets\staging.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\transfer.png">
+      <PackagePath>Assets\transfer.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\transport.png">
+      <PackagePath>Assets\transport.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2026-01-02T11:32:13.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45\build\..\lib\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+      <Modified>2025-03-30T09:03:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2026-01-15T14:35:43.637</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.8.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.8</Name>
+      <Version>8000.675.1142.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.8, MinVersion = 8000.675.1142.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.8.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.8</Name>
+      <Version>8000.675.1142.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.8, MinVersion = 8000.675.1142.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.8.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.8</Name>
+      <Version>8000.675.1142.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.8, MinVersion = 8000.675.1142.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.8.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.8</Name>
+      <Version>8000.675.1142.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.8, MinVersion = 8000.675.1142.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Matthew.walker\.nuget\packages\microsoft.windowsappsdk.runtime\1.8.251106002\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.33728.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.33728.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.33728.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.33728.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.33728.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.33728.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

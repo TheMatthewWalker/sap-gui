@@ -10,67 +10,67 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c8b9992f-eec9-49f2-8716-845dd55e80da</PackageIdentityName>
     <PackageIdentityPublisher>CN=matthew.walker</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Development\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppX</LayoutDir>
+    <LayoutDir>C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Development\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppxManifest.xml">
+    <AppXManifest Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Development\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.runtimeconfig.json">
       <PackagePath>sap-gui.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\apphost.exe">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\apphost.exe">
       <PackagePath>sap-gui.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\Microsoft.DiaSymReader.Native.x86.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\Microsoft.DiaSymReader.Native.x86.dll">
       <PackagePath>Microsoft.DiaSymReader.Native.x86.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\System.IO.Compression.Native.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\System.IO.Compression.Native.dll">
       <PackagePath>System.IO.Compression.Native.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\clretwrc.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clretwrc.dll">
       <PackagePath>clretwrc.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\clrgc.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clrgc.dll">
       <PackagePath>clrgc.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\clrjit.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\clrjit.dll">
       <PackagePath>clrjit.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\coreclr.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\coreclr.dll">
       <PackagePath>coreclr.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\createdump.exe">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\createdump.exe">
       <PackagePath>createdump.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\hostfxr.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\hostfxr.dll">
       <PackagePath>hostfxr.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\hostpolicy.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\hostpolicy.dll">
       <PackagePath>hostpolicy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\mscordaccore.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordaccore.dll">
       <PackagePath>mscordaccore.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\mscordaccore_x86_x86_8.0.2225.52707.dll">
-      <PackagePath>mscordaccore_x86_x86_8.0.2225.52707.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordaccore_x86_x86_8.0.2325.60607.dll">
+      <PackagePath>mscordaccore_x86_x86_8.0.2325.60607.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\mscordbi.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscordbi.dll">
       <PackagePath>mscordbi.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\mscorrc.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\mscorrc.dll">
       <PackagePath>mscorrc.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.22\runtimes\win-x86\native\msquic.dll">
+    <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.23\runtimes\win-x86\native\msquic.dll">
       <PackagePath>msquic.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.graphics.win2d\1.3.1\runtimes\win-x86\native\Microsoft.Graphics.Canvas.dll">
@@ -88,91 +88,91 @@
     <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\SAPFunctionsOCX.Interop.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\SAPFunctionsOCX.Interop.dll">
       <PackagePath>SAPFunctionsOCX.Interop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\System.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\linked\System.dll">
       <PackagePath>System.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll">
       <PackagePath>CommunityToolkit.WinUI.UI.Controls.DataGrid.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.InteractiveExperiences.Projection.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.WinUI.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.WinUI.dll">
       <PackagePath>Microsoft.WinUI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\sap-gui.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\sap-gui.dll">
       <PackagePath>sap-gui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.Primitives.dll">
       <PackagePath>System.ComponentModel.Primitives.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.TypeConverter.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.TypeConverter.dll">
       <PackagePath>System.ComponentModel.TypeConverter.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.MemoryMappedFiles.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.IO.MemoryMappedFiles.dll">
       <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.CoreLib.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.CoreLib.dll">
       <PackagePath>System.Private.CoreLib.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Security.Cryptography.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\System.Security.Cryptography.dll">
       <PackagePath>System.Security.Cryptography.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\R2R\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.deps.json">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\obj\x86\Release\net8.0-windows10.0.22621.0\win-x86\sap-gui.deps.json">
       <PackagePath>sap-gui.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.animations\8.2.250402\lib\net8.0-windows10.0.19041\CommunityToolkit.WinUI.Animations.pri">
@@ -193,49 +193,49 @@
     <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.pri">
       <PackagePath>CommunityToolkit.WinUI.UI.Controls.DataGrid.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\picklist.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\picklist.png">
       <PackagePath>Assets\picklist.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\putaway.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\putaway.png">
       <PackagePath>Assets\putaway.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\search.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\search.png">
       <PackagePath>Assets\search.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\staging.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\staging.png">
       <PackagePath>Assets\staging.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\transfer.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\transfer.png">
       <PackagePath>Assets\transfer.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\transport.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\transport.png">
       <PackagePath>Assets\transport.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matthew.walker\.nuget\packages\microsoft.web.webview2\1.0.3179.45\build\..\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\resources.pri">
+    <AppxPackagedFile Include="C:\Development\git-projects\sap-gui\bin\x86\Release\net8.0-windows10.0.22621.0\win-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

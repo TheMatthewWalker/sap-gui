@@ -13,94 +13,94 @@
           "CommunityToolkit.WinUI.UI.Controls.DataGrid": "7.1.2",
           "Microsoft.WindowsAppSDK": "1.8.251106002",
           "SAPFunctionsOCX.Interop": "5.0.0.0",
-          "runtimepack.Microsoft.NETCore.App.Runtime.win-x86": "8.0.22",
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x86": "8.0.23",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.57"
         },
         "runtime": {
           "sap-gui.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/8.0.22": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/8.0.23": {
         "runtime": {
           "Microsoft.CSharp.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Collections.Concurrent.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Collections.Immutable.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Collections.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.ComponentModel.Annotations.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.ComponentModel.Primitives.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.ComponentModel.TypeConverter.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.ComponentModel.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Diagnostics.StackTrace.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.IO.Compression.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.IO.MemoryMappedFiles.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Linq.Expressions.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Linq.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.ObjectModel.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Private.CoreLib.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Private.Uri.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Reflection.Metadata.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Runtime.InteropServices.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.Security.Cryptography.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "System.dll": {
             "assemblyVersion": "4.0.0.0",
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           }
         },
         "native": {
@@ -108,40 +108,40 @@
             "fileVersion": "14.42.34436.0"
           },
           "System.IO.Compression.Native.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "clretwrc.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "clrgc.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "clrjit.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "coreclr.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "createdump.exe": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "hostfxr.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "hostpolicy.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "mscordaccore.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
-          "mscordaccore_x86_x86_8.0.2225.52707.dll": {
-            "fileVersion": "8.0.2225.52707"
+          "mscordaccore_x86_x86_8.0.2325.60607.dll": {
+            "fileVersion": "8.0.2325.60607"
           },
           "mscordbi.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "mscorrc.dll": {
-            "fileVersion": "8.0.2225.52707"
+            "fileVersion": "8.0.2325.60607"
           },
           "msquic.dll": {
             "fileVersion": "2.4.8.0"
@@ -257,7 +257,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/8.0.22": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/8.0.23": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
