@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Development\\git-projects\\sap-gui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\navpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\navpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\navpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\navpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\services\\sapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:services\\sapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,24 +51,8 @@
       "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\picksheetpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\navpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\navpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\picksheetpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\picksheetpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\navpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\navpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|c:\\development\\git-projects\\sap-gui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{65FD1863-5E09-F6A7-CE73-BF4262D55F81}|sap-gui.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "sapController.cs",
               "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\Services\\sapController.cs",
               "RelativeDocumentMoniker": "Services\\sapController.cs",
@@ -76,20 +84,121 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransferPage.xaml",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\TransferPage.xaml",
-              "RelativeDocumentMoniker": "pages\\TransferPage.xaml",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\TransferPage.xaml",
-              "RelativeToolTip": "pages\\TransferPage.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T12:58:40.058Z",
+              "WhenOpened": "2026-01-15T14:45:44.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:44:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockPage.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\StockPage.xaml.cs",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml.cs",
+              "RelativeToolTip": "pages\\StockPage.xaml.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:42:09.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavPage.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\NavPage.xaml.cs",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml.cs",
+              "RelativeToolTip": "pages\\NavPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:54:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:21:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PicksheetPage.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\PicksheetPage.xaml",
+              "RelativeDocumentMoniker": "pages\\PicksheetPage.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\PicksheetPage.xaml",
+              "RelativeToolTip": "pages\\PicksheetPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T14:18:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockPage.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml",
+              "RelativeDocumentMoniker": "pages\\StockPage.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml",
+              "RelativeToolTip": "pages\\StockPage.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T12:51:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml",
+              "RelativeToolTip": "pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T15:22:31.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavPage.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml",
+              "RelativeDocumentMoniker": "pages\\NavPage.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml",
+              "RelativeToolTip": "pages\\NavPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T15:19:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TransferPage.xaml.cs",
               "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\TransferPage.xaml.cs",
               "RelativeDocumentMoniker": "pages\\TransferPage.xaml.cs",
@@ -102,67 +211,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StockPage.xaml.cs",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml.cs",
-              "RelativeDocumentMoniker": "pages\\StockPage.xaml.cs",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml.cs",
-              "RelativeToolTip": "pages\\StockPage.xaml.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:42:09.776Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NavPage.xaml.cs",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml.cs",
-              "RelativeDocumentMoniker": "pages\\NavPage.xaml.cs",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml.cs",
-              "RelativeToolTip": "pages\\NavPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T15:54:51.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "pages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T15:21:42.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PicksheetPage.xaml",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\PicksheetPage.xaml",
-              "RelativeDocumentMoniker": "pages\\PicksheetPage.xaml",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\PicksheetPage.xaml",
-              "RelativeToolTip": "pages\\PicksheetPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Title": "TransferPage.xaml",
+              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\TransferPage.xaml",
+              "RelativeDocumentMoniker": "pages\\TransferPage.xaml",
+              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\TransferPage.xaml",
+              "RelativeToolTip": "pages\\TransferPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T14:18:00.406Z"
+              "WhenOpened": "2025-11-19T12:58:40.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StockPage.xaml",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml",
-              "RelativeDocumentMoniker": "pages\\StockPage.xaml",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\StockPage.xaml",
-              "RelativeToolTip": "pages\\StockPage.xaml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T12:51:36.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PicksheetPage.xaml.cs",
               "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\PicksheetPage.xaml.cs",
               "RelativeDocumentMoniker": "pages\\PicksheetPage.xaml.cs",
@@ -171,30 +233,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T14:19:20.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\LoginPage.xaml",
-              "RelativeToolTip": "pages\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-13T15:22:31.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavPage.xaml",
-              "DocumentMoniker": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml",
-              "RelativeDocumentMoniker": "pages\\NavPage.xaml",
-              "ToolTip": "C:\\Development\\git-projects\\sap-gui\\pages\\NavPage.xaml",
-              "RelativeToolTip": "pages\\NavPage.xaml",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBJwAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-13T15:19:03.352Z"
             }
           ]
         }
